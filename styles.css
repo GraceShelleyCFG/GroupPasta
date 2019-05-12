@@ -1,20 +1,49 @@
 body {
-  background: pink;
+  background-image: url("Pasta .jpg");
+  height: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
-  text-align: center;
-  color: skyblue;
+  font-size: 20;
 }
 
 h2 {
   text-align: center;
+  color: white;
+  height: 200px;
+  width: 400px;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
 }
 
-p {
-  text-decoration: line-through;
+h3 {
   text-align: center;
+  color: white;
+  height: 200px;
+  width: 400px;
+
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
 }
+
 form {
   text-align: center;
+  height: 200px;
+  width: 400px;
+
+  position: fixed;
+  top: 70%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -200px;
 }
