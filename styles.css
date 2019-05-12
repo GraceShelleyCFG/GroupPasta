@@ -28,6 +28,7 @@ h3 {
   color: white;
   height: 200px;
   width: 400px;
+  font-style: italic;
 
   position: fixed;
   top: 60%;
@@ -40,6 +41,10 @@ form {
   text-align: center;
   height: 200px;
   width: 400px;
+
+  position:absolute;
+  top:10;
+  right:15;
 
   position: fixed;
   top: 70%;
