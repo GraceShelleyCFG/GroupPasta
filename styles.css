@@ -63,6 +63,14 @@ a {
   color: GoldenRod;
 }
 
+a:link {
+  color: GoldenRod;
+}
+
+a:visited {
+  color: GoldenRod;
+}
+
 a:hover {
   color: #993300;
 }
