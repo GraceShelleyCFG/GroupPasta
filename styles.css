@@ -71,15 +71,27 @@ a {
   color: GoldenRod;
 }
 
-a:link{
-  color:
+a:link {
+  color: GoldenRod;
+}
+
+a:visited {
+  color: GoldenRod;
 }
 
 a:hover {
   color: #993300;
 }
 
-a:active {
-  color: #993300;
-  font-weight:"bold";
-  }
+.box {
+	color: white;
+	font-size: 17px;
+	letter-spacing: 0,5px;
+	background-color: #45b2a5;
+	width:auto;
+	border: 0px;
+	padding:25px;
+	margin: 0px;
+	line-height: 24px;
+	overflow: hidden;
+}
