@@ -13,7 +13,7 @@ h1 {
 h2 {
   text-align: center;
   font-style: normal;
-  font-family: "chalkduster, fantasy";
+  font-family: chalkduster, fantasy;
   font-size: 40px;
   color: white;
   height: 200px;
@@ -70,3 +70,16 @@ font-size: 25px;
 a {
   color: GoldenRod;
 }
+
+a:link{
+  color:
+}
+
+a:hover {
+  color: #993300;
+}
+
+a:active {
+  color: #993300;
+  font-weight:"bold";
+  }
