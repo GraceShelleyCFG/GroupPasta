@@ -92,11 +92,8 @@ a:active {
 	color: white;
 	font-size: 17px;
 	letter-spacing: 0,5px;
-	background-color: #45b2a5;
+	background-color: #cc9966;
+  justify-content: center;
 	width:auto;
-	border: 0px;
-	padding:25px;
-	margin: 0px;
-	line-height: 24px;
 	overflow: hidden;
 }
