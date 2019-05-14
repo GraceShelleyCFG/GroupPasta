@@ -70,30 +70,3 @@ font-size: 25px;
 a {
   color: GoldenRod;
 }
-
-a:link {
-  color: GoldenRod;
-}
-
-a:visited {
-  color: GoldenRod;
-}
-
-a:hover {
-  color: #993300;
-}
-
-a:active {
-  color: #993300;
-  font-weight:"bold";
-}
-
-.box {
-	color: white;
-	font-size: 17px;
-	letter-spacing: 0,5px;
-	background-color: #cc9966;
-  justify-content: center;
-	width:auto;
-	overflow: hidden;
-}
