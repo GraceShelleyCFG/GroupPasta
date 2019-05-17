@@ -78,7 +78,7 @@ text-align: center;
 }
 
 .parallax1 {
-  background-image: url("Pasta.jpg");
+  background-image: url("Pasta .jpg");
 
   min-height: 500px;
 
@@ -86,6 +86,23 @@ text-align: center;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.parallax2 {
+  background-image: url("7pasta-shapes.jpg");
+
+  min-height: 500px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text{
+  height:500px;
+  background-color:GoldenRod;
+  font-size:15px"
 }
 
 a {
