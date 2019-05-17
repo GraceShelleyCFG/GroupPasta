@@ -77,6 +77,17 @@ width: 100%;
 text-align: center;
 }
 
+.parallax {
+  background-image: url("Pasta.jpg");
+
+  min-height: 500px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 a {
   color: GoldenRod;
 }
