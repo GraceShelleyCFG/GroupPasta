@@ -67,6 +67,16 @@ font-family: chalkduster, fantasy;
 font-size: 25px;
 }
 
+.heading{
+color: #f2f2f2;
+font-size: 15px;
+padding: 8px 12px;
+position: absolute;
+bottom: 170px;
+width: 100%;
+text-align: center;
+}
+
 a {
   color: GoldenRod;
 }
@@ -81,4 +91,8 @@ a:visited {
 
 a:hover {
   color: #993300;
+}
+
+a:active{
+font-weight: bold;
 }
