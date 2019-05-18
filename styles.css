@@ -59,7 +59,7 @@ form {
   margin-left: -200px;
 }
 
-{
+.....{
 text-align: center;
 color: white;
 font-style: normal;
@@ -90,7 +90,6 @@ text-align: center;
 
 .parallax2 {
   background-image: url("Images/7pasta-shapes.jpg");
-
   min-height: 500px;
 
   background-attachment: fixed;
@@ -100,14 +99,15 @@ text-align: center;
 }
 
 #text{
-  height:500px;
+  height: auto;
   background-color:GoldenRod;
   font-size:15px;
 }
 
 .img-responsive{
-width: auto;
-justify-content: space-around;
+max-width: 200px;
+margin: 1rem;
+border-radius: 100px;
 }
 
 a {
