@@ -59,7 +59,7 @@ form {
   margin-left: -200px;
 }
 
-p{
+{
 text-align: center;
 color: white;
 font-style: normal;
@@ -103,6 +103,11 @@ text-align: center;
   height:500px;
   background-color:GoldenRod;
   font-size:15px;
+}
+
+.img-responsive{
+width: auto;
+justify-content: space-around;
 }
 
 a {
