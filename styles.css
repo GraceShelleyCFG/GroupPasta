@@ -83,8 +83,13 @@ text-align: center;
 
 .parallax1 {
   background-image: url("Images/Pasta .jpg");
-
   min-height: 500px;
+
+  text-align: center;
+  color: white;
+  font-style: normal;
+  font-family: chalkduster, fantasy;
+  font-size: 25px;
 
   background-attachment: fixed;
   background-position: center;
@@ -108,6 +113,8 @@ text-align: center;
 
 .columntext
 {
+  font-size: 1.25rem;
+  font-weight: 300;
   padding: 1rem;
 }
 
