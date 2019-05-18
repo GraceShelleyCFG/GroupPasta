@@ -102,6 +102,15 @@ text-align: center;
   background-size: cover;
 }
 
+.pastapic{
+  text-align: center;
+}
+
+.columntext
+{
+  padding: 1rem;
+}
+
 #text{
   height: auto;
   background-color:GoldenRod;
@@ -114,7 +123,6 @@ margin: 1rem;
 border-radius: 100px;
 
 }
-
 
 a {
   color: GoldenRod;
