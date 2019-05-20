@@ -1,5 +1,13 @@
+.nav-item{
+  text-transform: uppercase;
+  font-family: "futura-pt";
+  font-weight: bold;
+}
+
+
+
 body {
-  background-image: url("Pasta .jpg");
+  background-image: url("Images/Pasta .jpg");
   height: 600px;
   background-position: center;
   background-repeat: no-repeat;
@@ -8,6 +16,10 @@ body {
 
 h1 {
   font-size: 20;
+}
+
+h3{
+  text-align: center;
 }
 
 h2 {
@@ -26,7 +38,7 @@ h2 {
   margin-left: -200px;
 }
 
-h3 {
+.heading3 {
   text-align: center;
   color: white;
   height: 200px;
@@ -34,7 +46,6 @@ h3 {
   font-style: normal;
   font-family: chalkduster, fantasy;
   font-size: 25px;
-
 
   position: fixed;
   top: 60%;
@@ -59,12 +70,80 @@ form {
   margin-left: -200px;
 }
 
-p{
+.....{
 text-align: center;
 color: white;
 font-style: normal;
 font-family: chalkduster, fantasy;
 font-size: 25px;
+}
+
+.heading{
+color: #f2f2f2;
+font-size: 15px;
+padding: 8px 12px;
+position: absolute;
+bottom: 170px;
+width: 100%;
+text-align: center;
+}
+
+.parallax1 {
+  background-image: url("Images/7pasta-shapes.jpg");
+  min-height: 500px;
+
+  text-align: center;
+  color: white;
+  font-style: normal;
+  font-family: chalkduster, fantasy;
+  font-size: 25px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  background-image: url("Images/7pasta-shapes.jpg");
+  min-height: 500px;
+
+  font-style: italic;
+  font-family: monospace;
+  font-size: 40px;
+  font-c
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pastapic{
+  text-align: center;
+}
+
+.columntext
+{
+  font-size: 1.25rem;
+  font-weight: 300;
+  padding: 1rem;
+}
+
+#text{
+  height: auto;
+  background-color:GoldenRod;
+  background-size: cover;
+  font-size:15px;
+  margin: 0;
+  padding: 0;
+}
+
+.img-responsive{
+max-width: 200px;
+margin: 1rem;
+border-radius: 100px;
+
 }
 
 a {
@@ -83,15 +162,6 @@ a:hover {
   color: #993300;
 }
 
-.box {
-	color: white;
-	font-size: 17px;
-	letter-spacing: 0,5px;
-	background-color: #45b2a5;
-	width:auto;
-	border: 0px;
-	padding:25px;
-	margin: 0px;
-	line-height: 24px;
-	overflow: hidden;
+a:active{
+font-weight: bold;
 }
