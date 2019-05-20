@@ -1,3 +1,11 @@
+.nav-item{
+  text-transform: uppercase;
+  font-family: "futura-pt";
+  font-weight: bold;
+}
+
+
+
 body {
   background-image: url("Images/Pasta .jpg");
   height: 600px;
@@ -81,7 +89,7 @@ text-align: center;
 }
 
 .parallax1 {
-  background-image: url("Images/Pasta .jpg");
+  background-image: url("Images/7pasta-shapes.jpg");
   min-height: 500px;
 
   text-align: center;
@@ -103,6 +111,7 @@ text-align: center;
   font-style: italic;
   font-family: monospace;
   font-size: 40px;
+  font-c
 
   background-attachment: fixed;
   background-position: center;
