@@ -15,7 +15,8 @@ body {
 }
 
 h1 {
-  font-size: 20;
+  font-size: 3rem;
+  line-height: 10;
 }
 
 h3{
