@@ -7,7 +7,7 @@
 
 
 body {
-  background-image: url("Images/Pasta .jpg");
+  background-image: url("Images/7pasta-shapes.jpg");
   height: 600px;
   background-position: center;
   background-repeat: no-repeat;
@@ -26,9 +26,10 @@ h3{
 h2 {
   text-align: center;
   font-style: normal;
-  font-family: chalkduster, fantasy;
+  font-family: futura-pt;
   font-size: 40px;
-  color: white;
+  color: GoldenRod;
+  font-weight: bold;
   height: 200px;
   width: 400px;
 
@@ -42,11 +43,12 @@ h2 {
 
 .heading3 {
   text-align: center;
-  color: white;
+  color: GoldenRod;
+  font-weight: bold;
   height: 200px;
   width: 400px;
   font-style: normal;
-  font-family: chalkduster, fantasy;
+  font-family: futura-pt;
   font-size: 25px;
 
   position: fixed;
@@ -166,4 +168,119 @@ a:hover {
 
 a:active{
 font-weight: bold;
+}
+
+.parallax3 {
+  background-image: url("Images/7pasta-shapes.jpg");
+  min-height: 500px;
+
+  text-align: center;
+  color: white;
+  font-style: normal;
+  font-family: chalkduster, fantasy;
+  font-size: 25px;
+
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4 {
+  background-image: url("Images/7pasta-shapes.jpg");
+  min-height: 500px;
+
+  font-style: italic;
+  font-family: monospace;
+  font-size: 40px;
+
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pastapic{
+  text-align: center;
+}
+
+.columntext
+{
+  font-size: 1.25rem;
+  font-weight: 300;
+  padding: 1rem;
+}
+
+#text{
+  height: auto;
+  background-color:GoldenRod;
+  background-size: cover;
+  font-size:15px;
+  margin: 0;
+  padding: 0;
+}
+
+.img-responsive{
+max-width: 200px;
+margin: 1rem;
+border-radius: 100px;
+
+}
+
+a {
+  color: GoldenRod;
+}
+
+a:link {
+  color: GoldenRod;
+}
+
+a:visited {
+  color: GoldenRod;
+}
+
+a:hover {
+  color: #993300;
+}
+
+a:active{
+font-weight: bold;
+}
+
+.title {
+ font-family: Impact;
+ font-size: 35px;
+ text-align: center;
+ color: white;
+}
+
+.box {
+    color: white;
+    font-size: 12px;
+ font-family:fantasy;
+    letter-spacing: 0,5px;
+    width: 700px;
+    border: 3px;
+ border-style: solid;
+ border-color: white;
+ padding: 0.5em;
+    padding:25px;
+    margin: 0 auto;
+    line-height: 24px;
+    overflow: hidden;
+ align-content: center;
+ border-radius: 25px
+}
+
+.welcome {
+ font-family: arial;
+ font-size: 18px;
+ text-align: center;
+}
+.about {
+ font-family: arial;
+ font-size: 18px;
+ text-align: justify;
 }
