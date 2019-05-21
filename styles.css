@@ -15,7 +15,8 @@ body {
 }
 
 h1 {
-  font-size: 20;
+  font-size: 3rem;
+  line-height: 10;
 }
 
 h3{
@@ -38,6 +39,7 @@ h2 {
   margin-top: -100px;
   margin-left: -200px;
 }
+
 
 .heading3 {
   text-align: center;
